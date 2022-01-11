@@ -34,12 +34,12 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 
 ```bash
 # Clone o Repositório
-
+https://github.com/Jeffx234/pefreact-ignite.git
 ```
 
 ```bash
 # Acesse a pasta do projeto
-cd
+cd pefreact-ignite
 ```
 
 ```bash
