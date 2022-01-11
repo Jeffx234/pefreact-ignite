@@ -1,13 +1,13 @@
 <p align="center">
-   <img src="" alt="NextAuth" width="480"/>
+   <img src="https://github.com/Jeffx234/pefreact-ignite/blob/main/image/appImg.png" alt="NextAuth" width="480"/>
 </p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/jeferson-luis-055720210/">
-      <img alt="Jeferson Luis" src="https://img.shields.io/badge/-Jeferson Luis-eba417?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Jeferson Luis" src="https://img.shields.io/badge/-Jeferson Luis-blue?style=flat&logo=Linkedin&logoColor=white" />
    </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-eba417">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
 </p>
 
 > **perfreact** é o sexto projeto criado no chapter 5 da trilha de React do Ignite da [Rocketseat](https://github.com/Rocketseat). O projeto consiste em estudar as melhores maneiras de **aplicar performance no React**. Como por exemplo, como utilizar: **ReactDevTools**, **Memo**, **useMemo**, **useCallback**, **Formatação de Dados**, **Dynamic Import do NextJS**, **Virtualização** e **Bundle Analyzer**
@@ -93,5 +93,3 @@ Acesse <http://localhost:3000> para ver o resultado.
 # :closed_book: Licença
 
 Este projeto está sob a licença [MIT](./LICENSE).
-
-https://github.com/Jeffx234/mission-origin-nlw/blob/main/assets/fotos/print.png
